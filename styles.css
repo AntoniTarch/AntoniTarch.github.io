@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #0066ff;
+    background-color: #3B6245 ;
     color: white;
     padding: 10px;
 }
@@ -15,7 +15,7 @@ main {
 }
 
 footer {
-    background-color: #0066ff;
+    background-color: #3B6245 ;
     color: white;
     padding: 10px;
     position: fixed;
